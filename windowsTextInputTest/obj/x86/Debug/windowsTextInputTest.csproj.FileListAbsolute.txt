@@ -1,0 +1,12 @@
+D:\Projekty - Programowanie\VisualStudio2010\C#\windowsTextInputTest\windowsTextInputTest\obj\x86\Debug\MainWindow.baml
+D:\Projekty - Programowanie\VisualStudio2010\C#\windowsTextInputTest\windowsTextInputTest\obj\x86\Debug\MainWindow.g.cs
+D:\Projekty - Programowanie\VisualStudio2010\C#\windowsTextInputTest\windowsTextInputTest\obj\x86\Debug\App.g.cs
+D:\Projekty - Programowanie\VisualStudio2010\C#\windowsTextInputTest\windowsTextInputTest\obj\x86\Debug\windowsTextInputTest_MarkupCompile.cache
+D:\Projekty - Programowanie\VisualStudio2010\C#\windowsTextInputTest\windowsTextInputTest\obj\x86\Debug\windowsTextInputTest.g.resources
+D:\Projekty - Programowanie\VisualStudio2010\C#\windowsTextInputTest\windowsTextInputTest\obj\x86\Debug\windowsTextInputTest.Properties.Resources.resources
+D:\Projekty - Programowanie\VisualStudio2010\C#\windowsTextInputTest\windowsTextInputTest\obj\x86\Debug\windowsTextInputTest.csproj.GenerateResource.Cache
+D:\Projekty - Programowanie\VisualStudio2010\C#\windowsTextInputTest\windowsTextInputTest\bin\Debug\windowsTextInputTest.exe
+D:\Projekty - Programowanie\VisualStudio2010\C#\windowsTextInputTest\windowsTextInputTest\bin\Debug\windowsTextInputTest.pdb
+D:\Projekty - Programowanie\VisualStudio2010\C#\windowsTextInputTest\windowsTextInputTest\obj\x86\Debug\windowsTextInputTest.exe
+D:\Projekty - Programowanie\VisualStudio2010\C#\windowsTextInputTest\windowsTextInputTest\obj\x86\Debug\windowsTextInputTest.pdb
+D:\Projekty - Programowanie\VisualStudio2010\C#\windowsTextInputTest\windowsTextInputTest\obj\x86\Debug\App.baml
